@@ -2,7 +2,7 @@
    やあ 👋
 </p>
 <p align="center">
-   <img src="https://github.com/Manjunathravindra/afca/blob/main/ezgif.com-gif-maker.gif" alt="gif" title="gif-again" width="1000" height="400">
+   <img src="https://github.com/Manjunathravindra/afca/blob/main/ezgif.com-gif-maker.gif" alt="gif" title="gif-again">
 </p>
 
 <!--
