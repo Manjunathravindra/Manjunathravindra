@@ -1,5 +1,7 @@
 <p align="center">
-   <h1 align="center">やあ
+   <h1 align="center"><br>やあ
+   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hii" width="40px" height="40px">
+    </br>
    </h1>
 </p>
 <p align="center">
