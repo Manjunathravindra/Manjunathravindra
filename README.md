@@ -39,7 +39,6 @@
 </p>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=Manjunathravindra&show_icons=true&theme=radical" alt="stats">
-</p>
-<p align="right">
+   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathravindra&theme=radical" alt="lang">
 </p>
