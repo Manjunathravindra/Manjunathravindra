@@ -36,3 +36,4 @@
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
 </p>
 <div data-pym-src="https://www.jdoodle.com/embed/v0/4VGH"></div>
+<script src="https://www.jdoodle.com/embed/v0/4VGH" type="text/c">
