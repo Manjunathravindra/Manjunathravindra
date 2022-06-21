@@ -2,9 +2,9 @@
    <h1 align="center">やあ
    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hii" width="40px" height="40px">
    </h1>
-</p>
-<p align="center">
+   <p align="center">
    <img src="https://github.com/Manjunathravindra/afca/blob/main/ezgif.com-gif-maker.gif" alt="gif" title="gif-again" border="0">
+</p>
 </p>
 <p>
    -> 🔭 I’m currently working on ...
