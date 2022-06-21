@@ -37,6 +37,6 @@
 </p>
 <p data-pym-src="https://www.jdoodle.com/embed/v0/4VGH">
 </p>
-<script src="https://www.jdoodle.com/embed/v0/4VGH" type="text/c">
-</script>
+<p src="https://www.jdoodle.com/embed/v0/4VGH" type="text/c">
+</p>
 
