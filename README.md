@@ -1,7 +1,7 @@
 <p align="center">
    やあ 👋
 </p>
-![alt text]("https://github.com/Manjunathravindra/afca/blob/main/download.jfif ")
+![alt text](https://github.com/Manjunathravindra/afca/blob/main/download.jfif?raw=true)
 
 <!--
 **Manjunathravindra/Manjunathravindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
