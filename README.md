@@ -29,4 +29,7 @@
 <p>
    -> ⚡ Fun fact: ...
 </p>
-![Visitor Count](https://profile-counter.glitch.me/Manjunathravindra/count.svg)
+<p align="center">
+   you are viewer number
+   <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
+</p>
