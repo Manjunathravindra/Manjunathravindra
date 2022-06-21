@@ -32,6 +32,6 @@
 <p align="center">
    YOU ARE VIEWER NUMBER
  </p>
- <p>
+ <p align="center">
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
 </p>
