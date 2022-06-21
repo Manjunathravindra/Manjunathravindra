@@ -2,7 +2,7 @@
    やあ 👋
 </p>
 <p align="center">
-   <img src="https://c.tenor.com/bH6smDBO0pIAAAAi/transparent-background.gif" alt="Alt text" title="Optional title">
+   <img src="https://c.tenor.com/bH6smDBO0pIAAAAi/transparent-background.gif" alt="Alt text" title="Optional title" width="500" height="600">
 </p>
 
 <!--
