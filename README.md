@@ -35,6 +35,7 @@
  <p align="center">
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
 </p>
-<p>
-<iframe src="https://www.onlinegdb.com/online_c_compiler" title="W3Schools Free Online Web Tutorials"></iframe>
-</p>
+<iframe
+  src="https://www.onlinegdb.com/online_c_compiler"
+  style="width:50%; height:300px;"
+></iframe>
