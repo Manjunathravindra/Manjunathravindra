@@ -1,6 +1,6 @@
 <p align="center">
    <h1 align="center">やあ
-   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hii" width="30px" height="30px" />
+   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hii" width="30px" height="30px">
    </h1>
 </p>
 <p align="center">
