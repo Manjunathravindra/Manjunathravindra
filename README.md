@@ -5,6 +5,8 @@
    <img src="https://github.com/Manjunathravindra/afca/blob/main/ezgif.com-gif-maker.gif" alt="gif" title="gif-again">
 </p>
 <p>
+   <img src="https://i.pinimg.com/236x/2e/84/40/2e8440a1969bef3dacf468a3d2e3d61e.jpg" alt="coding" align="right" />
+<p>
    - 🔭 I’m currently working on ...
 </p>
 <p>
