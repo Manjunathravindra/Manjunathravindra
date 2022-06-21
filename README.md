@@ -9,10 +9,10 @@
 </p>
 <p>
    - 🌱 I’m currently learning ...
+    <img src="https://i.pinimg.com/236x/2e/84/40/2e8440a1969bef3dacf468a3d2e3d61e.jpg" alt="coding" align="right" />
 </p>
 <P>
    - 👯 I’m looking to collaborate on ...
-   <img src="https://i.pinimg.com/236x/2e/84/40/2e8440a1969bef3dacf468a3d2e3d61e.jpg" alt="coding" align="right" />
 </p>
 <p>
    - 🤔 I’m looking for help with ...
