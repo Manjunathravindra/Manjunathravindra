@@ -1,5 +1,5 @@
-<p align="center">
-   *Hi there 👋*
+<p align="center" style="color:Blue;font-size:25px">
+   やあ 👋
 </p>
 
 
