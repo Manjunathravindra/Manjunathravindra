@@ -1,7 +1,7 @@
 <p align="center">
    やあ 👋
 </p>
-![alt text](https://c.tenor.com/Z25t-Dm102AAAAAC/welcome.gif)
+<img src="https://c.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" alt="Alt text" title="Optional title">
 
 <!--
 **Manjunathravindra/Manjunathravindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
