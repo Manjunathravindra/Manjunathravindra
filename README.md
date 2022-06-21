@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p style="text align:center"> hi </p>
+<p style="text-align:center"> hi </p>
 
 <!--
 **Manjunathravindra/Manjunathravindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
