@@ -37,8 +37,7 @@
  <p align="center">
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
 </p>
-<p align="right">
+<p>
    <img src="https://github-readme-stats.vercel.app/api?username=Manjunathravindra&show_icons=true&theme=radical" alt="stats">
-   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathravindra&theme=radical" alt="lang">
 </p>
