@@ -38,5 +38,5 @@
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
 </p>
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=Manjunathravindra" alt="stats">
 </p>
