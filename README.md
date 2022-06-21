@@ -4,7 +4,10 @@
 <p align="center">
    <img src="https://github.com/Manjunathravindra/afca/blob/main/ezgif.com-gif-maker.gif" alt="gif" title="gif-again">
 </p>
-
+|
+|
+|
+|
 <!--
 **Manjunathravindra/Manjunathravindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
