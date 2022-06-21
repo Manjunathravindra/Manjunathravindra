@@ -30,6 +30,8 @@
    -> ⚡ Fun fact: ...
 </p>
 <p align="center">
-   you are viewer number
+   YOU ARE VIEWER NUMBER
+ </p>
+ <p>
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
 </p>
