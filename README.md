@@ -41,5 +41,5 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Manjunathravindra&show_icons=true&theme=radical" alt="stats">
    <p align="right">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathravindra&theme=radical" alt="lang">
-</p>
+   </p>
 </p>
