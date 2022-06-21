@@ -1,5 +1,5 @@
 <p align="center">
-   やあ 
+   <h1>やあ</h1>	
    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hii" width="30px" height="30px" />
 </p>
 <p align="center">
