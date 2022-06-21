@@ -39,6 +39,5 @@
 </p>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=Manjunathravindra&show_icons=true&theme=radical" alt="stats">
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathravindra&theme=radical" alt="lang">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathravindra&layout=compact&theme=radical" alt="lang">
 </p>
