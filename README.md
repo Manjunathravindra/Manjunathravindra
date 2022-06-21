@@ -1,5 +1,5 @@
-<h1 "style:text-align:center">Hi there 👋<h1>
-<p style="text-align:center"> hi </p>
+<h1 "style:text-align:center;">Hi there 👋<h1>
+
 
 <!--
 **Manjunathravindra/Manjunathravindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
