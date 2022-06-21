@@ -35,7 +35,4 @@
  <p align="center">
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
 </p>
-<iframe
-  src="https://www.onlinegdb.com/online_c_compiler"
-  style="width:50%; height:300px;"
-></iframe>
+https://www.onlinegdb.com/online_c_compiler
