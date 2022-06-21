@@ -1,10 +1,10 @@
 <p align="center">
    <h1 align="center">やあ
    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hii" width="30px" height="30px">
-   </br>
    </h1>
 </p>
 <p align="center">
+   <br>
    <img src="https://github.com/Manjunathravindra/afca/blob/main/ezgif.com-gif-maker.gif" alt="gif" title="gif-again">
 </p>
 <p>
