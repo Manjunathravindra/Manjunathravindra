@@ -1,6 +1,5 @@
 <p align="center">
    やあ 👋
-   <img src="https://c.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" alt="Alt text" title="Optional title">
 </p>
 
 
