@@ -45,8 +45,10 @@
    <img height="210em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathravindra&theme=radical" alt="lang">
 </p>
 <p>
+   <h2>
    <img height="30em" src="https://github.com/Manjunathravindra/afca/blob/main/su1tM-removebg-preview.png" alt="online">
-   <h2>online<h2>
+   online
+   </h2>
 </p>
 
 
