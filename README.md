@@ -45,7 +45,5 @@
    <img height="210em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathravindra&theme=radical" alt="lang">
 </p>
 
-<audio controls>
-  <source src="https://github.com/Manjunathravindra/afca/blob/main/Morning-Routine-Lofi-Study-Music.mp3" type="audio/mp3">
-</audio>
+
 
