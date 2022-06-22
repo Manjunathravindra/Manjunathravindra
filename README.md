@@ -45,6 +45,6 @@
    <img height="210em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathravindra&theme=radical" alt="lang">
 </p>
 <p>
-   <img src="https://photos.google.com/photo/AF1QipPScbZh9mSRmlLV_oEniUZ-aE6id5j5Is1sKPAc" alt="lol")
+   <img src="https://lh3.googleusercontent.com/UUvyEFHEuVYLOodR…gaTCVzYRileD-w5d2e7HEPYGg=w303-h408-no?authuser=0" alt="lol")
 </p>
 
