@@ -44,11 +44,9 @@
    <img height="210em"src="https://github-readme-stats.vercel.app/api?username=Manjunathravindra&show_icons=true&theme=radical" alt="stats">
    <img height="210em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathravindra&theme=radical" alt="lang">
 </p>
-<p>
-   <h2>
-   <img height="50em" src="https://github.com/Manjunathravindra/afca/blob/main/su1tM-removebg-preview.png" alt="online">
+<p font-size="30em">
+   <img height="30em" src="https://github.com/Manjunathravindra/afca/blob/main/su1tM-removebg-preview.png" alt="online">
    online
-   </h2>
 </p>
 
 
