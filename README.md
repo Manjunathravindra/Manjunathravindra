@@ -47,4 +47,8 @@
 <p>
    <img height="30em" src="https://github.com/Manjunathravindra/afca/blob/main/Screenshot_2022-06-23_083018-removebg-preview.png" alt ="online">
 </p>
-[//]# (This may be the most platform independent comment)
+<!---
+<p>
+  <img height="30em" src="https://github.com/Manjunathravindra/afca/blob/main/Screenshot_2022-06-23_083414-removebg-preview.png" alt="offline">
+</p>
+-->
