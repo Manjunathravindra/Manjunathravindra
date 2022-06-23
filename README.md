@@ -45,6 +45,6 @@
    <img height="210em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathravindra&theme=radical" alt="lang">
 </p>
 <p>
-   <img height="25em" src="https://github.com/Manjunathravindra/afca/blob/main/Screenshot_2022-06-23_083018-removebg-preview.png" alt ="online">
+   <img height="30em" src="https://github.com/Manjunathravindra/afca/blob/main/Screenshot_2022-06-23_083018-removebg-preview.png" alt ="online">
 </p>
 
