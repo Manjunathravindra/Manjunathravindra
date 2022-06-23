@@ -1,6 +1,6 @@
 <p align="center">
    <h1 align="center">やあ
-   <img heigth="25em"src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hii" width="40px" height="40px">
+   <img heigth="25em"src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hii">
    </h1>   
 </p>
 <p align="center">
@@ -52,4 +52,4 @@
   <img height="30em" src="https://github.com/Manjunathravindra/afca/blob/main/Screenshot_2022-06-23_083414-removebg-preview.png" alt="offline">
 </p>
 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k23901bpknjd5hivmxgai8zmh&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
