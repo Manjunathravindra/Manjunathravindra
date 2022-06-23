@@ -52,3 +52,4 @@
   <img height="30em" src="https://github.com/Manjunathravindra/afca/blob/main/Screenshot_2022-06-23_083414-removebg-preview.png" alt="offline">
 </p>
 -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k23901bpknjd5hivmxgai8zmh&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
