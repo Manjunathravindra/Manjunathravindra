@@ -32,14 +32,14 @@
    -> ⚡ Fun fact: ...
 </p>
 <br>
-<p>
-   <img height="285em" src="https://github.com/Manjunathravindra/afca/blob/main/LOVE%20STORIES%20WITH%20USHIJIMA%20__%20Ushijima%20Wakatoshi%20OS.gif">
-</p>
 <p align="center">
    YOU ARE MY PROFILE VIEWER NUMBER
  </p>
  <p align="center">
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
+</p>
+<p>
+   <img height="285em" src="https://github.com/Manjunathravindra/afca/blob/main/LOVE%20STORIES%20WITH%20USHIJIMA%20__%20Ushijima%20Wakatoshi%20OS.gif">
 </p>
 <p align="center">
    MY STATS
