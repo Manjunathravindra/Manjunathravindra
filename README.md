@@ -31,6 +31,7 @@
 <p>
    -> ⚡ Fun fact: ...
 </p>
+<br>
 <p>
    <img height="300em" src="https://github.com/Manjunathravindra/afca/blob/main/LOVE%20STORIES%20WITH%20USHIJIMA%20__%20Ushijima%20Wakatoshi%20OS.gif">
 </p>
