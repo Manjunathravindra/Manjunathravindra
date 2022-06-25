@@ -37,7 +37,7 @@
  <p align="center">
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
 </p>
- <p align="left">
+ <p align="right">
       SOME OF MY PROJECTS
  </p>
 <p>
