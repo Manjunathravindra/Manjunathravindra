@@ -39,8 +39,8 @@
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
 </p>
 <p>
-   <p>
-      some of my projects
+   <p align="left">
+      SOME OF MY PROJECTS
    </p>
    <img height="285em" src="https://github.com/Manjunathravindra/afca/blob/main/LOVE%20STORIES%20WITH%20USHIJIMA%20__%20Ushijima%20Wakatoshi%20OS.gif">
 </p>
