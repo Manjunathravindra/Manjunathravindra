@@ -29,9 +29,9 @@
    -> 😄 Pronouns: ...
 </p>
 <p>
-   -> ⚡ Fun fact: ...
+   -> ⚡ Fun fact: ...style="color:DodgerBlue"
 </p>
-<p align="center">
+<p align="center" style="color:DodgerBlue">
    YOU ARE MY PROFILE VIEWER NUMBER
  </p>
  <p align="center">
