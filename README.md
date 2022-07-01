@@ -29,7 +29,7 @@
    -> 😄 Pronouns: ...
 </p>
 <p>
-   -> ⚡ Fun fact: ...style="color:DodgerBlue"
+   -> ⚡ Fun fact: ...
 </p>
 <p align="center" color="DodgerBlue">
    YOU ARE MY PROFILE VIEWER NUMBER
@@ -38,12 +38,13 @@
    <img src="https://profile-counter.glitch.me/Manjunathravindra/count.svg" alt="counter")
 </p>
 <p>
-      SOME OF MY PROJECTS
-</p>
 <p>
    <img height="285em" src="https://github.com/Manjunathravindra/afca/blob/main/LOVE%20STORIES%20WITH%20USHIJIMA%20__%20Ushijima%20Wakatoshi%20OS.gif">
 </p>
-
+<p>
+      SOME OF MY PROJECTS
+</p>
+</p>
 <p align="center">
    MY STATS
 </p>
