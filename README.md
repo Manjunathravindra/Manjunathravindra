@@ -1,5 +1,5 @@
 <h1 align="center">hello👋 </h1>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manjunathravindra&show_icons=true&locale=en&theme=synthwave" alt="Manjunathravindra" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manjunathravindra&show_icons=true&locale=en&theme=synthwave" alt="Manjunathravindra" /><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manjunathravindra&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Manjunathravindra" /></p>
